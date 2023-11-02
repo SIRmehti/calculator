@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\ماشین حساب\ماشین حساب\bin\Debug\ماشین حساب.exe.config
+C:\Users\USER\source\repos\ماشین حساب\ماشین حساب\bin\Debug\ماشین حساب.exe
+C:\Users\USER\source\repos\ماشین حساب\ماشین حساب\bin\Debug\ماشین حساب.pdb
+C:\Users\USER\source\repos\ماشین حساب\ماشین حساب\obj\Debug\ماشین حساب.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ماشین حساب\ماشین حساب\obj\Debug\ماشین_حساب.Form1.resources
+C:\Users\USER\source\repos\ماشین حساب\ماشین حساب\obj\Debug\ماشین_حساب.Properties.Resources.resources
+C:\Users\USER\source\repos\ماشین حساب\ماشین حساب\obj\Debug\ماشین حساب.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ماشین حساب\ماشین حساب\obj\Debug\ماشین حساب.exe
+C:\Users\USER\source\repos\ماشین حساب\ماشین حساب\obj\Debug\ماشین حساب.pdb
